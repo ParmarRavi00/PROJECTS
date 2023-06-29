@@ -1,0 +1,348 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+/* ----------Navbar START---------- */
+
+nav{
+    height: auto;
+    /* border: 2px solid black; */
+    display: grid;
+    grid-template-columns: 3fr 5fr 2fr;
+    text-align: center;
+    padding: 10px 10px 17px;
+}
+
+.logo{
+    padding-top: 5px;
+    padding-right: 10px;
+    /* border: 2px solid red; */
+}
+
+.navbar ul{
+    list-style: none;
+}
+
+.navbar ul li{
+    display: inline-block;
+    padding-left: 20px;
+    margin: 12px 0px;
+}
+
+.navbar li a{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    color: #5f88a3;
+    font-weight: bold;
+}
+
+.btn{
+    text-align: center;
+    /* border: 2px solid red;  */
+}
+
+.btn button{
+    width: 148px;
+    height: 45px;
+    border-radius: 3px;
+    border: none;
+    background: #f3223b;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* <!-- ----------Navbar END---------- --> */
+
+
+/* <!-- ----------Header START---------- --> */
+
+header{
+    /* border: 2px solid red; */
+    display: grid;
+    grid-template-columns: 4fr 6fr;
+    grid-template-rows: 435px;
+    background:#1a5ca3;
+}
+
+.order_now{
+    position: relative;
+    /* border: 3px solid black; */
+}
+
+.order{
+    width: 75%;
+    color: white;
+    /* border: 2px solid red; */
+    padding-bottom: 10px;
+    position: absolute;
+    right: 30px;
+    bottom: 0%;
+}
+.order_now h1{
+    font-size: 33px;
+}
+
+.order_now p{
+    font-size: 19px;
+    margin-bottom: 20px;
+    color: #47a0ff;
+    font-weight: 100;
+}
+
+.order_now button{
+    width: 100%;
+    height: 60px;
+    background: #1fb31a;
+    border: none;
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.image img{
+    width: 100%;
+    height: 100%;
+}
+
+
+/* <!-- ----------Header END---------- --> */
+
+
+/* <!-- ----------Home Section START---------- --> */
+
+.home{
+    margin-top: 15px;
+}
+
+.home>h3{
+    background: #eee;
+    font-size: 15px;
+    color: #1a5ca3;
+    padding: 10px;
+}
+
+/* <!-- ----------Coupons START---------- --> */
+
+.home_sector{
+    display: flex;
+    justify-content: center;
+    /* border: 3px solid orange; */
+}
+.coupons_explore{
+    width: 85%;
+    /* border: 3px solid red; */
+}
+
+.coupons_explore h1{
+    /* border: 2px solid green; */
+    font-size: 28px;
+    font-weight: 900;
+    color: #708aa5;
+    padding: 35px 0px 20px;
+
+}
+
+.coupons_images{
+    /* border: 2px solid black; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto auto;
+    gap: 15px;  
+}
+
+.coupons_images img{
+    width: 100%;
+}
+
+/* <!-- ----------Coupons END---------- --> */
+
+/* <!-- ----------Explore START---------- --> */
+
+.explore_facility{
+    /* height: 300px; */
+    /* border: 2px solid lawngreen; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 100px;
+}
+
+.facility{
+    border: 1px dotted black;
+    display: grid;
+    grid-template-rows: 80% 20%;
+    text-align: center;
+}
+
+.contant{
+    padding: 40px 25px;
+    /* border: 3px solid lightcoral; */
+}
+
+.contant h3{
+    font-size: 18px;
+    font-weight: bold;
+    color: #2b4547;
+    margin: 10px 0px;
+}
+
+.contant p{
+    font-size: 15px;
+    line-height: 20px;
+    color: #2b4547;
+}
+
+.discover{
+    border-top: 1px dotted black;
+    font-size: 15px;
+    font-weight: 700;
+    color: #de042e;
+    padding: 27px 0px;
+}
+
+/* <!-- ----------Explore END---------- --> */
+
+/* <!-- ----------Home Section END---------- --> */
+
+
+/* <!-- ----------New APP Section START---------- --> */
+
+.new_app{
+    /* border: 2px solid red; */
+    background-color: #f2f5fc;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.new_app_image img{
+    width: 100%;
+    height: 100%;
+    padding-top: 20px;
+    padding-left:80px;
+    /* border: 2px solid darkred; */
+}
+
+.info{
+    /* border: 2px solid darkgreen; */
+    margin: 100px 0px 0px 130px;
+}
+
+.info h2{
+    font-size: 38px;
+    color: #59688c;
+}
+
+.info p{
+    font-size: 25px;
+    line-height: 40px;
+    color: #8899c0;
+    letter-spacing: 1px;
+    margin: 35px 0px 60px;
+}
+
+.info img{
+    margin-right: 30px;
+}
+
+/* <!-- ----------New APP Section END---------- --> */
+
+
+/* <!-- ----------Details Section START---------- --> */
+
+.details{
+    height: auto;
+    /* border: 2px solid black; */
+    padding: 0px 20px 0px 30px;
+}
+
+/* .details_block{
+    border: 2px solid red;
+} */
+
+.details_block h2{
+    font-size: 28px;
+    font-weight: 700;
+    color: #006491;
+    margin: 30px 0px;
+}
+
+.details_block p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #54565b;
+}
+
+.btn_block{
+    height: auto;
+    /* border: 2px solid green; */
+    margin-top: 60px;
+}
+
+.btn_block button{
+    padding: 3px;
+    margin: 0px 5px 8px 0px;
+    cursor: pointer;
+}
+
+/* <!-- ----------Details Section END---------- --> */
+
+
+/* <!-- ----------Footer START---------- --> */
+
+.menu_bar{
+    height: auto;
+    border-bottom: 1px dotted #546273;
+    background-color: #222e3a;
+    padding: 60px 0px 20px 50px;
+    /* border: 2px solid black; */
+    display: grid;
+    grid-template-columns: 0.7fr 0.7fr 1.1fr 0.9fr 0.8fr 0.9fr;
+}
+
+.menu_bar h3{
+    font-size: 19px;
+    color: #546273;
+    margin-bottom: 30px;
+}
+
+.menu_bar ul{
+    list-style: none;
+}
+
+.menu_bar li a{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 17px;
+    color: white;
+    margin-bottom: 17px;
+}
+
+.menu_bar li img{
+    margin-right: 10px;
+}
+
+.copy_right{
+    color: #5c6f83;
+    text-align: center;
+    padding: 20px 0px;
+    background: #1a2735;
+}
+
+.chat_with_us{
+    position: fixed;
+    bottom: 15px;
+    right: 20px;
+}
+
+/* <!-- ----------Footer END---------- --> */

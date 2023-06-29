@@ -1,0 +1,130 @@
+@media (max-width:500px){
+
+    /* ----------Navbar START---------- */
+
+    nav{
+        grid-template-columns: 1fr;
+    }
+
+    .logo{
+        padding-top: 0px;
+    }
+
+    .navbar ul li{
+        display: block;
+        padding-left: 0px;
+    }
+
+    /* ----------Navbar END---------- */
+
+
+    /* ----------Header START---------- */
+
+    header{
+        grid-template-columns: 1fr;
+        grid-template-rows: 300px 200px;
+    }
+
+    .order{
+        right: 56px;
+        bottom: 0%;
+    }
+
+    .order_now h1{
+        font-size: 30px;
+    }
+
+    .order_now p{
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    .order_now button{
+        height: 50px;
+        font-size: 18px;
+    }
+
+    /* <!-- ----------Header END---------- --> */
+
+
+    /* <!-- ----------Home Section START---------- --> */
+
+    /* <!-- ----------Coupons START---------- --> */
+
+    .coupons{
+        width: 95%;
+    }
+
+    .coupons_images{
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto auto;
+        gap: 10px;  
+    }
+
+    /* <!-- ----------Coupons END---------- --> */
+
+    /* <!-- ----------Explore START---------- --> */
+
+    .explore_facility{
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto;
+    }
+
+    /* <!-- ----------Explore END---------- --> */
+
+    /* <!-- ----------Home Section END---------- --> */
+
+
+    /* <!-- ----------New APP Section START---------- --> */
+
+    .new_app{
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto;
+    }
+
+    .new_app_image img{
+        height: 200px;
+        padding-top: 0px;
+        padding-left:0px;
+    }
+    
+    .info{
+        margin: 20px 0px 0px 50px;
+    }
+
+    .new_app_info h2{
+        font-size: 35px;
+    }
+    
+    .new_app_info p{
+        font-size: 20px;
+        line-height: 25px;
+        margin: 5px 0px 20px;
+    }
+    
+    .new_app_info img{
+        margin-right: 10px;
+    }
+    /* <!-- ----------New APP Section END---------- --> */
+
+
+    /* <!-- ----------Details Section START---------- --> */
+
+    /* <!-- ----------Details Section END---------- --> */
+
+
+    /* <!-- ----------Footer START---------- --> */
+
+    .menu_bar{
+        padding: 30px 0px 20px 30px;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .copy_right{
+        font-size: 13px;
+    }
+
+    /* <!-- ----------Footer END---------- --> */
+    
+
+}

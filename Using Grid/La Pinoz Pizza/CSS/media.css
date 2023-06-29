@@ -1,0 +1,249 @@
+@media(max-width:500px){
+
+    /* <!-- ----------Navbar START---------- --> */
+
+    .navbar{
+    grid-template-columns: 1fr;
+    }
+
+    .nav{
+    padding-left: 0px;
+    }
+
+    .nav ul li{
+    display: block;
+    padding: 5px;
+    }
+
+    /* <!-- ----------Navbar END---------- --> */
+
+
+    /* <!-- ----------Header START---------- --> */
+
+    .header_info h1{
+        font-size: 23px;
+        padding-top: 40px;
+    }
+
+    .header_info h2{
+        font-size: 23px;
+    }
+
+    .header_info h3{
+        font-size: 19px;
+        font-weight: 200;
+    }
+
+    .header_info .dp{
+        width: 400px;
+        background: transparent;
+    }
+
+    .header_info .dp select{
+        width: 100%;
+        padding: 12px;
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+
+    .header_info p{
+        font-size: 17px;
+    }
+
+    /* <!-- ----------Header END---------- --> */
+
+
+    /* <!-- ----------Section START---------- --> */
+
+    /* <!-- ----------Deals And Offers START---------- --> */
+
+    .banner{
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto auto auto;
+        gap: 5px;
+    }
+
+    .banner img{
+        width: 210px;
+        height: 100px;
+    }
+
+    /* <!-- ----------Deals And Offers END---------- --> */
+
+
+    /* <!-- ----------About START---------- --> */
+    
+    .about_contant{
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto;
+    }
+
+    .about_info{
+        text-align: center;
+    }
+
+    .growth_list h2{
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .growth_list ul li div img{
+        margin: 0px 20px;
+    }
+
+    .growth_list ul li .list span{
+        font-size: 14px;
+    }
+    
+    /* <!-- ----------About END---------- --> */
+
+
+    /* <!-- ----------Coffee START---------- --> */
+
+    .Coffee_contant{
+        background: url(../Images/image-154758-1681821901.jpeg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+
+    /* <!-- ----------Coffee END---------- --> */
+
+
+    /* <!-- ----------Growth Journey START---------- --> */
+
+    .growth_contant{
+        grid-template-columns: 1fr;
+    }
+
+    .growth_img img{
+        width: 400px
+    }
+
+    /* <!-- ----------Growth Journey END---------- --> */
+
+
+    /* <!-- ----------Loved Across START---------- --> */
+
+    .loverd_across_contant h2{
+        font-size: 22px;
+    }
+
+    .loverd_across_contant h3{
+        font-size: 18px;
+    }
+
+    .loverd_across_contant .flags{
+        gap: 10px 5px;
+    }
+
+    .loverd_across_contant .flags .individual img{
+        width: 75px;
+        height: 45px;
+        border-radius: 5px;
+    }
+    
+    .loverd_across_contant .flags .individual p{
+        font-size: 12px;
+        margin-top: -4px;
+    }
+    
+    /* <!-- ----------Loved Across END---------- --> */
+
+
+    /* <!-- ----------Quality START---------- --> */
+
+    .quality_contant{
+        grid-template-columns: 1fr;
+    }
+
+    /* <!-- ----------Quality END---------- --> */
+
+
+    /* <!-- ----------Explore START---------- --> */
+
+    .explore_contant .menu_list{
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 10px 0px;
+    }
+
+    .explore_contant .menu_list .menu img{
+        height: 90px;
+        width: 90px;
+    }
+
+    .explore_contant .menu_list .menu p{
+        font-size: 14px;
+    }
+    
+    /* <!-- ----------Explore END---------- --> */
+    
+
+    /* <!-- ----------Seller START---------- --> */
+
+    .seller_contant .seller_item_flag{
+        grid-template-columns: 1fr 1fr;
+    }
+
+    /* <!-- ----------Seller END---------- --> */
+
+
+    /* <!-- ----------Newly Lauched START---------- --> */
+
+    .lauche .lauche_contant .lauche_stores{
+        grid-template-columns: 1fr 1fr;
+        gap: 20px 10px;
+    }
+
+    /* <!-- ----------Newly Lauched END---------- --> */
+
+
+    /* <!-- ----------Outlet START---------- --> */
+
+    .outlet .outlet_across{
+        background: url(../Images/outlet-img-1-500px.jpeg);
+        background-size: cover;
+    }
+    
+    /* <!-- ----------Outlet END---------- --> */
+
+
+    /* <!-- ----------Happy Customers START---------- --> */
+
+    .customer p{
+        font-size: 18px;
+        font-weight: 500;
+    }
+    
+    .customer h2{
+        font-size: 24px;
+    }
+    
+    .customer .customer_review{
+        width: 95%;
+        margin: 50px auto;
+    }
+    
+    /* <!-- ----------Happy Customers END---------- --> */
+
+
+    /* <!-- ----------Near Location START---------- --> */
+
+    .location_contant h2{
+        font-size: 24px;
+    }
+
+    /* <!-- ----------Near Location END---------- --> */
+
+
+    /* <!-- ----------Section END---------- --> */
+
+
+    /* <!-- ----------Footer START---------- --> */
+
+    footer .links .links_contant{
+        grid-template-columns: 1fr 1fr;
+        row-gap: 15px;
+    }
+
+    /* <!-- ----------Footer END---------- --> */
+}

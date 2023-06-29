@@ -1,0 +1,144 @@
+@media(max-width:500px){
+    
+    /* ----------Navbar START---------- */
+
+    nav{
+        padding: 10px;
+    }
+    
+    .logo{
+        width: 100%;
+    }
+
+    .navbar{
+        width: 100%;
+    }
+
+    .navbar ul li{
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .btn{
+        width: 100%;
+    }
+
+    /* ----------Navbar END---------- */
+
+    /* <!-- ----------Header START---------- --> */
+
+    .order_now{
+        width: 100%;
+        padding: 40px 0px 0px 40px;
+    }
+
+    .bg_image{
+        width: 100%;
+    }
+
+    /* <!-- ----------Header END---------- --> */
+
+    /* <!-- ----------Home Section START---------- --> */
+
+    .coupons_block{
+        margin: 20px 0px 40px;
+    }
+
+    .coupons_block h1{
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+
+    .block{
+        width: 48%;
+        height: 340px;
+    }
+
+    .content{
+        padding:20px 10px 0px ;
+    }
+
+    .order{
+        font-size: 18px;
+        padding-top: 20px;
+    }
+
+    .facility h3{
+        font-size: 20px;
+        margin: 8px 0px;
+    }
+
+    .facility p{
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    /* <!-- ----------Home Section END---------- --> */
+
+
+    /* <!-- ----------New APP Section START---------- --> */
+
+    .new_app_image{
+        width: 100%;
+        height: 200px;
+        padding-top: 0px;
+        padding-left: 0px;
+    }
+
+    .new_app_info{
+        width: 100%;
+        height: 200px;
+        padding-top: 20px;
+        padding-left: 50px;
+    }
+
+    .new_app_info h2{
+        font-size: 35px;
+    }
+    
+    .new_app_info p{
+        font-size: 20px;
+        line-height: 25px;
+        margin: 5px 0px 20px;
+    }
+    
+    .new_app_info img{
+        margin-right: 10px;
+    }
+    /* <!-- ----------New APP Section END---------- --> */
+
+
+    /* <!-- ----------Details Section START---------- --> */
+
+    /* <!-- ----------Details Section END---------- --> */
+
+
+    /* <!-- ----------Footer START---------- --> */
+
+    .menu_bar div{
+        width: 50%;
+    }
+
+    .menu_bar li img{
+        margin-right: 10px;
+    }
+
+    .menu_bar{
+        padding-top: 30px;
+    }
+
+    .menu_bar h3{
+        margin-bottom: 20px;
+    }
+
+    .menu_bar li a{
+        margin-bottom: 12px;
+    }
+
+    .copy_right{
+        font-size: 13px;
+    }
+    
+    /* <!-- ----------Footer END---------- --> */
+
+}

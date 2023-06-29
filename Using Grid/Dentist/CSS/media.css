@@ -1,0 +1,55 @@
+@media(max-width:500px){
+
+
+    .form{
+        width: 450px;
+        height: 390px;
+    }
+
+
+/* <!-- ---------- --> */
+
+    .form .progress_details{
+        display: none;
+    }
+
+
+/* <!-- ---------- --> */
+
+    .form h4{
+        padding: 0px;
+    }
+
+    .form .services{
+        grid-template-columns: 1fr;
+    }
+
+    .form .services .category label{
+        margin-top: 15px;
+    }
+
+    .form .services .category select{
+        width: 100%;
+    }
+
+
+/* <!-- ---------- --> */
+
+.form .available{
+    display: none;
+}
+
+
+/* <!-- ---------- --> */
+
+.form .timing{
+    display: none;
+}
+
+
+.form input[type="submit"]{
+    margin-top: 10px;
+}
+
+
+}
