@@ -5,7 +5,8 @@ var typed = new Typed(".typing", {
     typeSpeed:50,
     backSpeed:20,
     loop:true
-})
+  })
+  console.log(typed);
 
 
 // ========== Show Sidebar ==========
