@@ -1,0 +1,249 @@
+@media(max-width:500px){
+
+/* <!-- --------------------Navbar START-------------------- --> */
+
+/* <!-- * * * * * Scroll Nav START * * * * * --> */
+/* <!-- * * * * * Scroll Nav END * * * * * --> */
+
+/* <!-- * * * * * Nav Top START * * * * * --> */
+
+nav .top_nav{
+    grid-template-columns: 70fr 30fr;
+}
+
+nav .top_nav .contact_block{
+    font-size: 13px;
+}
+
+nav .top_nav .contact_block span:first-child{
+    padding: 0px 15px 0px 0px;
+}
+
+nav .top_nav .user_block{
+    font-size: 15px;
+}
+
+nav .top_nav .user_block i{
+    padding-left: 15px;
+}
+
+/* <!-- * * * * * Nav Top END * * * * * --> */
+
+
+/* <!-- * * * * * Nav Bottom START * * * * * --> */
+
+nav .bottom_nav{
+    grid-template-columns: 1fr;
+    line-height: 60px;
+}
+
+nav .bottom_nav .navigation ul li{
+    margin: 0px 10px;
+}
+
+/* <!-- * * * * * Nav Bottom END * * * * * --> */
+
+
+/* <!-- --------------------Navbar END-------------------- --> */
+
+
+/* <!-- --------------------Header START-------------------- --> */
+
+header{
+    grid-template-columns: 1fr;
+    margin-top: 25px;
+}
+
+header .product_info{
+    padding: 100px 20px 70px;
+}
+
+header .product_info h2{
+    font-size: 45px;
+    padding: 50px 0px 15px;
+    line-height: 60px;
+}
+
+/* <!-- --------------------Header END-------------------- --> */
+
+
+/* <!-- --------------------Section START-------------------- --> */
+
+/* <!-- * * * * * Our Picks Section START * * * * * --> */
+
+.our_picks h2{
+    font-size: 35px;
+}
+
+.picks_image_contaner .small_image{
+    
+    grid-template-columns: 1fr 1fr;
+    padding-bottom: 50px;
+}
+
+.picks_image_contaner .image_box{
+    margin: 40px 40px 0px;
+}
+
+/* <!-- Our Picks Big Banner START --> */
+
+section .our_picks .picks_image_contaner .big_banner{
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 25px;
+}
+
+.big_banner .common_banner{
+    width: 100%;
+}
+
+
+/* <!-- Our Picks Big Banner END --> */
+
+
+/* <!-- * * * * * Our Picks Section END * * * * * --> */
+
+
+/* <!-- * * * * * Best Sellers Section START * * * * * --> */
+
+.best_sellers{
+    font-size: 20px;
+}
+
+.best_sellers h2{
+    margin: 0px 30px 30px;
+}
+
+.best_sellers .seller_contaner{
+    grid-template-columns: 1fr;
+    gap: 23px;
+}
+
+.best_sellers .seller_contaner .prd{
+    width: 100%;
+}
+
+.best_sellers .seller_contaner .prd .prd_image{
+    height: 500px;
+}
+
+/* <!-- * * * * * Best Sellers Section END * * * * * --> */
+
+
+/* <!-- * * * * * Special Offer Section START * * * * * --> */
+
+.special_offer .offer_contaner{
+    grid-template-columns: 1fr;
+}
+
+.special_offer .offer_contaner .offer_info{
+    padding: 50px 0px 0px;
+}
+
+/* <!-- * * * * * Special Offer Section END * * * * * --> */
+
+
+/* <!-- * * * * * Millions Section START * * * * * --> */
+
+.millions{
+    padding: 0px 0px 100px;
+}
+
+.millions .millions_text{
+    width: 80%;
+}
+
+.millions .millions_logo{
+    padding: 0px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 15px;
+}
+
+.millions .millions_logo .logo{
+    width: 140px;
+}
+
+
+/* <!-- * * * * * Millions Section END * * * * * --> */
+
+
+/* <!-- * * * * * Beauty Section START * * * * * --> */
+
+.beauty{
+    grid-template-columns: 1fr;
+}
+
+.beauty .beauty_info{
+    background-color: #e1dfdf;
+    padding: 0px 0px 50px 10px;
+}
+
+.beauty .beauty_image{
+    padding: 150px 0px;
+}
+
+/* <!-- * * * * * Beauty Section END * * * * * --> */
+
+
+/* <!-- * * * * * Care Skin Section START * * * * * --> */
+
+.care_skin{
+    padding: 30px 0px;
+}
+
+.care_skin .skin_contaner{
+    grid-template-columns: 1fr;
+}
+
+.care_skin .skin_contaner .contaner_1 .email{
+    width: 100%;
+}
+
+/* <!-- * * * * * Care Skin Section END * * * * * --> */
+
+/* <!-- --------------------Section END-------------------- --> */
+
+
+/* <!-- --------------------Footer START-------------------- --> */
+
+/* <!-- -----Icons START----- --> */
+
+footer .logo_contaner{
+    grid-template-columns: 1fr;
+    padding-bottom: 50px;
+}
+
+.logo_contaner .icons span{
+    margin-left: -15px;
+}
+
+.logo_contaner .logo{
+    text-align: left;
+    padding: 20px 0px;
+}
+
+.logo_contaner .payment{
+    text-align: left;
+}
+
+/* <!-- -----Icons END----- --> */
+
+/* <!-- -----Images START----- --> */
+
+.image_contaner .image{
+    height: 80px;
+}
+
+/* <!-- -----Images END----- --> */
+
+/* <!-- --------------------Footer END-------------------- --> */
+
+
+/* <!-- --------------------Up Button START-------------------- --> */
+
+
+/* <!-- --------------------Up Button END-------------------- --> */
+
+
+}
