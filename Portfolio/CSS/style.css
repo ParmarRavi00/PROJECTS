@@ -627,6 +627,10 @@ input{
     margin-bottom: var(--mb-0-5);
 }
 
+.layer h4{
+    margin-bottom: var(--mb-0-5); 
+}
+
 .layer a{
     color: #ff004f;
     text-decoration: none;

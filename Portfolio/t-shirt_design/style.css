@@ -1,0 +1,90 @@
+.container-fluid {
+        background-color: #f9f9f9;
+      }
+
+      .container-fluid .green,
+      .professional_content,
+      .team .team_content,
+      .action,
+      .message .form {
+        background-color: #a8d741;
+      }
+
+      button i {
+        color: #a8d741;
+        font-size: 14px;
+      }
+
+      .heading,
+      .prd .btn .second {
+        background-color: #a8d741;
+        padding: 120px 0px;
+      }
+
+      .heading h1 {
+        font-size: 80px;
+        font-weight: normal;
+      }
+
+      i {
+        font-size: 80px;
+        color: #a8d741;
+      }
+
+      .feature .content .icon_info p,
+      .team > p,
+      .partner .cart_content .cart_info p,
+      .contacts p {
+        color: #a6a6a6;
+      }
+
+      .prd .info,
+      .action h4,
+      .contacts h2 {
+        font-size: 65px;
+      }
+
+      .photo .prd_content h3 {
+        font-size: 5lvw;
+      }
+
+      .prd_content p {
+        font-size: 2.9lvw;
+      }
+
+      .professional_content .cart_info,
+      .team .team_content .cart .cart_content .cart_info,
+      .shop_image,
+      .cart .cart_content,
+      .client {
+        background-color: #eeeeee;
+      }
+
+      .professional_content img,
+      .team .team_content .cart img {
+        object-fit: cover;
+      }
+
+      .professional_content .cart_info a {
+        text-decoration: none;
+      }
+
+      .professional_content .cart_info a i {
+        font-size: 14px;
+      }
+
+      .shop_image .box_content .price_info .price h2 {
+        font-size: 65px;
+      }
+
+      @media (min-width: 991px) {
+        .prd_content {
+          height: 700px;
+        }
+      }
+
+      @media (min-width: 1200px) {
+        .prd_content {
+          height: 750px;
+        }
+      }
