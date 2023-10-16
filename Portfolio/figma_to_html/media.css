@@ -1,0 +1,529 @@
+@media(max-width:1188px){
+
+/* <!-- ----------Navbar Start---------- --> */
+
+nav ul li{
+    padding: 0px 10px;
+}
+
+/* <!-- ----------Navbar End---------- --> */
+
+/* <!-- ----------Header Start---------- --> */
+
+header .header_info, .header_image{
+    width: 45%;
+}
+
+/* <!-- ----------Header End---------- --> */
+
+/* <!-- ----------Section Start---------- --> */
+
+/* <!-- ----------Businesses Section---------- -->*/
+
+.Project_cart h3{
+    font-size: 38px;
+}
+
+.Project_cart p{
+    font-size: 16px;
+}
+
+/* <!-- ----------Social Media Section---------- --> */
+
+.Social_Media .Social_info{
+    padding-top: 70px;
+}
+
+.Social_Media .Social_info h1{
+    font-size: 32px;
+    line-height: 30px;
+}
+
+.Social_Media .Social_info p{
+    font-size: 18px;
+    line-height: 20px;  
+}
+
+/* <!-- ----------Quastions Section---------- --> */
+
+.Quastions .Qua_info h2{
+    font-size: 30px;
+}
+
+.form-body{
+    width: 350px;
+}
+
+/* <!-- ----------Section End---------- --> */
+
+/* <!-- ----------Footer Start---------- --> */
+
+footer .footer_info, .footer_image{
+    width: 50%;
+}
+
+/* <!-- ----------Footer End---------- --> */
+
+}
+
+@media(max-width:980px){
+
+/* <!-- ----------Navbar Start---------- --> */
+
+nav .First_menu, .second_menu{
+    width: 45%;
+}
+
+nav .logo{
+    width: 10%;
+}
+
+/* <!-- ----------Navbar End---------- --> */
+
+
+/* <!-- ----------Header Start---------- --> */
+
+.header_info p{
+    line-height: 30px;
+}
+
+/* <!-- ----------Header End---------- --> */
+
+/* <!-- ----------Section Start---------- --> */
+
+/* <!-- ----------Quastions Section---------- --> */
+
+.Quastions .info h2{
+    font-size: 25px;
+}
+
+.form-body{
+    width: 300px;
+}
+
+
+.form-contain .label span{
+    font-size: 16px;
+}
+
+.email-contain span{
+    font-size: 16px;
+}
+
+/* <!-- ----------Section End---------- --> */
+
+/* <!-- ----------Footer Start---------- --> */
+
+footer .footer_info h1{
+    font-size: 32px;
+    line-height: 30px;
+}
+
+/* <!-- ----------Footer End---------- --> */
+
+}
+
+
+@media(max-width:862px){
+
+/* <!-- ----------Navbar Start---------- --> */
+
+nav .First_menu, .second_menu{
+    display: none;
+}
+
+/* <!-- ----------Responsiv Navbar---------- --> */
+
+.openbtn{
+    display: block;
+}
+
+/* <!-- ----------Navbar End---------- --> */
+
+
+/* <!-- ----------Header Start---------- --> */
+
+header .header_info, .header_image{
+    width: 48%;
+}
+
+.header_info h1{
+    font-size: 35px;
+    line-height: 60px;
+}
+
+.header_info p{
+    font-size: 16px;
+    line-height: 25px;
+}
+
+/* <!-- ----------Header End---------- --> */
+
+/* <!-- ----------Section Start---------- --> */
+
+/* <!-- ----------Businesses Section---------- -->*/
+
+.Project{
+    padding: 60px 0px;
+}
+
+.Project h2{
+    font-size: 35px;
+    line-height: 40px;
+    padding: 30px 0px;
+}
+
+.Project_item{
+    gap: 20px;
+}
+
+.Project_cart{
+    width: 40%;
+}
+
+/* <!-- ----------Social Media Section---------- --> */
+
+.Social_Media .Social_image, .Social_info{
+    width: 50%;
+}
+
+/* <!-- ----------Our Team Section---------- --> */
+
+.Member_details h4{
+    font-size: 14px;
+    padding-bottom: 12px;
+}
+
+.Member_details p{
+    font-size: 14px;
+    line-height: 16px;
+}
+
+/* <!-- ----------Section End---------- --> */
+
+/* <!-- ----------Footer Start---------- --> */
+
+footer .footer_info{
+    padding: 30px 20px;
+}
+
+footer .footer_info, .footer_image{
+    width: 50%;
+}
+
+footer .footer_info h1{
+    font-size: 25px;
+    line-height: 25px;
+}
+
+footer .footer_info p{
+    font-size: 16px;
+    line-height: 35px;   
+}
+
+footer .footer_info button{
+    font-size: 10px;
+    padding: 8px 20px;
+}
+
+footer .footer_info img{
+    height: 60px;
+    right: 2%;
+    bottom: -0%;
+}
+
+/* <!-- ----------Footer End---------- --> */
+
+}
+
+@media(max-width:790px){
+
+/* <!-- ----------Section Start---------- --> */
+
+/* <!-- ----------Social Media Section---------- --> */
+
+.Social_Media .Social_info h1{
+    font-size: 25px;
+    line-height: 25px;
+    padding-bottom: 10px;
+}
+
+.Social_Media .Social_info p{
+    font-size: 16px; 
+}
+
+/* <!-- ----------Quastions Section---------- --> */
+
+
+.Quastions .info, .image{
+    width: 100%;
+}
+
+.Quastions .image{
+    display: none;
+}
+
+.Quastions .info h2{
+    font-size: 35px;
+    line-height: 53px;   
+}
+
+.form-body{
+    width: 100%;
+}
+
+/* <!-- ----------Section End---------- --> */
+
+}
+
+
+@media(max-width:676px){
+
+/* <!-- ----------Section Start---------- --> */
+
+/* <!-- ----------Social Media Section---------- --> */
+
+.Social_Media .Social_info{
+    padding-top: 50px;
+}
+
+.Social_Media .Social_info h1{
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.Social_Media .Social_info p{
+    font-size: 14px; 
+}
+
+/* <!-- ----------Section End---------- --> */
+
+/* <!-- ----------Footer Start---------- --> */
+
+footer .footer_footer_info{
+    padding: 25px 20px;
+}
+
+footer .footer_footer_info h1{
+    font-size: 20px;
+    line-height: 20px;
+}
+
+footer .footer_footer_info p{
+    font-size: 14px;  
+}
+
+/* <!-- ----------Footer End---------- --> */
+
+}
+
+
+@media(max-width:586px){
+
+/* <!-- ----------Header Start---------- --> */
+
+header .header_info, .header_image{
+    width: 100%;
+}
+
+/* <!-- ----------Header End---------- --> */
+
+/* <!-- ----------Section Start---------- --> */
+
+/* <!-- ----------Businesses Section---------- -->*/
+
+.Project{
+    padding: 60px 0px;
+}
+
+.Project h2{
+    font-size: 30px;
+}
+
+.Project_cart h3{
+    font-size: 32px;
+    line-height: 30px;
+}
+
+.Project_cart p{
+    font-size: 14px;
+}
+
+/* <!-- ----------Social Media Section---------- --> */
+
+.Social_Media .Social_image{
+    width: 100%;
+}
+
+.Social_Media .Social_info{
+    width: 100%;
+}
+
+.Social_Media .Social_info h1{
+    font-size: 32px;
+    line-height: 30px;
+    padding-bottom: 15px;
+}
+
+.Social_Media .Social_info p{
+    font-size: 16px;
+    line-height: 20px;  
+}
+
+/* <!-- ----------Our Team Section---------- --> */
+
+.Member{
+    justify-content: space-evenly;
+    gap: 30px 10px;
+}
+
+.Member .Member_cart{
+    width: 40%;
+}
+
+/* <!-- ----------Quastions Section---------- --> */
+
+.Quastions .info h2{
+    font-size: 25px;
+}
+
+/* <!-- ----------Section End---------- --> */
+
+/* <!-- ----------Footer Start---------- --> */
+
+footer .footer_info, .footer_image{
+    width: 100%;
+}
+
+footer .footer_info h1{
+    font-size: 38px;
+    line-height: 38px;
+}
+
+footer .footer_info p{
+    font-size: 16px;
+    line-height: 50px;   
+}
+
+footer .footer_info button{
+    font-size: initial;
+    padding: 10px 40px;
+}
+
+footer .footer_info img{
+    height: 100px;
+}
+
+/* <!-- ----------Footer End---------- --> */
+
+}
+
+
+@media(max-width:488px){
+
+/* <!-- ----------Section Start---------- --> */
+
+/* <!-- ----------Businesses Section---------- -->*/
+
+.Project{
+    padding: 20px 0px;
+}
+
+.Project h2{
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.Project_item{
+    padding: 20px 0px;
+}
+
+.Project_cart h3{
+    font-size: 28px;
+    line-height: 25px;
+}
+
+.Project_cart p{
+    font-size: 12px;
+}
+
+/* <!-- ----------Our Team Section---------- --> */
+
+.Our_Team h2{
+    font-size: 30px;
+}
+
+.Member{
+    gap: 20px;
+    padding-top: 30px;
+}
+
+.Member .Member_cart{
+    width: 100%;
+}
+
+/* <!-- ----------Section End---------- --> */
+
+/* <!-- ----------Footer Start---------- --> */
+
+footer .footer_info h1{
+    font-size: 30px;
+    line-height: 30px;
+}
+
+footer .footer_info button{
+    font-size: 14px;
+    padding: 8px 30px;
+}
+
+footer .footer_info img{
+    height: 80px;
+}
+
+/* <!-- ----------Footer End---------- --> */
+
+
+}
+
+@media(max-width:396px){
+
+/* <!-- ----------Section Start---------- --> */
+
+/* <!-- ----------Quastions Section---------- --> */
+
+.Quastions .info h2{
+    font-size: 22px;
+    line-height: 25px;
+}
+
+/* <!-- ----------Section End---------- --> */
+
+}
+
+
+@media(max-width:332px){
+  
+/* <!-- ----------Section Start---------- --> */
+
+/* <!-- ----------Businesses Section---------- -->*/
+
+.Project_cart{
+    width: 100%;
+}
+
+/* <!-- ----------Section End---------- --> */
+
+/* <!-- ----------Footer Start---------- --> */
+
+footer .footer_info h1{
+    font-size: 25px;
+    line-height: 25px;
+}
+
+footer .footer_info img{
+    height: 60px;
+}
+
+/* <!-- ----------Footer End---------- --> */
+
+}

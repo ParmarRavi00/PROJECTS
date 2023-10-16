@@ -1,0 +1,628 @@
+@media(max-width:1038px){
+   
+h2{
+    font-size: 25px;
+}
+
+h3{
+    font-size: 16px;
+}
+
+p{
+    font-size: 14px;
+}
+
+/* <!-- ----------Navbar Start---------- --> */
+
+.Menu ul li{
+    padding: 0px 10px;
+    font-size: 14px;
+}
+
+/* <!-- ----------Navbar End---------- --> */
+
+/* <!-- ----------Header Start---------- --> */
+
+header{
+    font-size: 20px;
+    padding: 100px 0px;
+}
+
+header p{
+    font-size: 12px;
+    line-height: 15px;
+}
+
+header button{
+    padding: 10PX 40px;
+}
+
+
+/* <!-- ----------Header End---------- --> */
+
+
+/* <!-- ----------Section Start---------- --> */
+
+/* <!-- ----------WelCome Section---------- -->*/
+
+
+.items{
+    gap: 20px;
+}
+
+.items .cart{
+    width: 22%;
+    padding: 30px 18px;
+}
+
+.cart h3{
+    padding: 15px 0px;
+}
+
+.cart p{
+    font-size: 12px;
+}
+
+/* <!-- ----------Member Section---------- -->*/
+
+.Member_cart{
+    width: 25%;
+}
+
+/* <!-- ----------Testimonials Section---------- -->*/
+
+.Testimonials_Content{
+    width: 60%;
+}
+
+/* <!-- ----------News Section---------- -->*/
+
+.News_items .News_cart{
+    width: 25%;
+}
+
+/* <!-- ----------Section End---------- --> */
+
+}
+
+
+@media(max-width:838px){
+ 
+h2{
+    font-size: 22px;
+}
+    
+h3{
+    font-size: 13px;
+}
+    
+p{
+    font-size: 11px;
+}
+    
+
+/* <!-- ----------Navbar Start---------- --> */
+
+.Logo{
+    width: 30%;
+}
+
+.Menu{
+    width: 70%;
+}
+
+.Menu ul li{
+    padding: 0px 10px;
+    font-size: 12px;
+}
+
+/* <!-- ----------Navbar End---------- --> */
+
+/* <!-- ----------Header Start---------- --> */
+
+header{
+    font-size: 16px;
+    padding: 70px 0px;
+}
+
+
+header p{
+    font-size: 10px;
+}
+
+header button{
+    padding: 8PX 30px;
+}
+
+/* <!-- ----------Header End---------- --> */
+
+/* <!-- ----------Section Start---------- --> */
+
+/* <!-- ----------WelCome Section---------- -->*/
+
+.items .cart{
+    width: 40%;
+    padding: 30px 40px;
+}
+
+/* <!-- ----------Service Section---------- -->*/
+
+.Service .Service_info{
+    padding: 20px 20px;
+}
+
+/* <!-- ----------Offering Section---------- -->*/
+
+.Offering_items{
+    width: 90%;
+    gap: 30px 10px;
+}
+
+.Offering_cart{
+    gap: 20px;
+}
+
+.Offering_img img{
+    height: 30px;
+    width: 30px;
+}
+
+.Offering_detail p{
+    font-size: 10px;
+}
+
+/* <!-- ----------Gallary Section---------- -->*/
+
+.Gallary ul li{
+    font-size: 12px;
+    margin: 20px 10px;
+}
+
+/* <!-- ----------Member Section---------- -->*/
+
+.Member_items{
+    gap: 15px;
+    padding: 30px 0px;
+}
+
+.Member_cart{
+    width: 30%;
+    padding: 35px 30px;
+}
+
+.Member_cart img{
+    height: 100px;
+    width: 100px;
+}
+
+.Member_cart h3{
+    font-size: 14px;
+    padding: 15px 0px 5px;
+}
+
+.Member_cart p{
+    font-size: 12px;
+}
+
+/* <!-- ----------Testimonials Section---------- -->*/
+
+.Testimonials_Content{
+    width: 80%;
+    padding: 30px;
+}
+
+.Client_name{
+    margin-left: -40px;
+}
+
+.Client_name p{
+    margin-left: 30px;
+}
+
+/* <!-- ----------News Section---------- -->*/
+
+.News_items{
+    gap: 15px;
+    padding-top: 30px;
+}
+
+
+.News_items .News_cart{
+    width: 30%;
+}
+
+/* <!-- ----------Section End---------- --> */
+
+}
+
+@media(max-width:646px){
+
+h2{
+    font-size: 20px;
+}
+        
+h3{
+    font-size: 12px;
+}
+        
+p{
+    font-size: 8px;
+}
+
+.same_padding{
+    padding-top: 40px;
+}
+     
+
+/* <!-- ----------Navbar Start---------- --> */
+
+.UpperNav{
+    display: none;
+}
+
+.BottomNav{
+    background-color: #7e868f;
+}
+
+.Menu{
+    display: none;
+}
+
+/* <!-- ----------Responsiv Navbar---------- --> */
+
+.openbtn{
+    display: block;
+}
+
+/* <!-- ----------Navbar End---------- --> */
+
+/* <!-- ----------Header Start---------- --> */
+
+header{
+    font-size: 14px;
+    padding: 50px 0px;
+}
+
+header button{
+    font-size: 12px;
+}
+
+/* <!-- ----------Header End---------- --> */
+
+/* <!-- ----------Section Start---------- --> */
+
+/* <!-- ----------WelCome Section---------- -->*/
+
+.items .cart{
+    padding: 20px 25px;
+}
+
+/* <!-- ----------Service Section---------- -->*/
+
+.Service .Service_info{
+    padding: 10px 10px;
+    
+}
+
+.Service_cart{
+    margin-top: 10px;
+}
+
+/* <!-- ----------Offering Section---------- -->*/
+
+.Offering_items{
+    gap: 15px 10px;
+}
+
+.Offering_cart{
+    gap: 10px;
+}
+
+/* <!-- ----------Member Section---------- -->*/
+
+.Member_cart{
+    padding: 30px 20px;
+}
+
+.Platform{
+    height: 20px;
+    width: 20px;
+    line-height: 20px;
+    font-size: 10px;
+}
+
+
+/* <!-- ----------News Section---------- -->*/
+
+.News_details{
+    padding: 10px;
+}
+
+/* <!-- ----------Dont_Miss Section---------- --> */
+
+.Dont_Miss p{
+    font-size: 20px;
+}
+
+.Input{
+    height: 40px;
+    width: 350px;
+}
+
+.Input button{
+    padding: 0px 20px;
+    font-size: 10px;
+}
+
+/* <!-- ----------Section End---------- --> */
+
+
+/* <!-- ----------Footer Start---------- --> */
+
+footer{
+    padding-bottom: 40px;
+}
+
+/* <!-- ----------Footer End---------- --> */
+
+}
+
+@media(max-width:552px){
+
+/* <!-- ----------Section Start---------- --> */
+
+/* <!-- ----------WelCome Section---------- -->*/
+
+.items{
+    gap: 20px;
+    padding-top: 30px;
+}
+
+.cart .icon{
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    font-size: 20px;
+}
+
+/* <!-- ----------Service Section---------- -->*/
+
+.Service .Service_image{
+    width: 90%;
+    margin: auto;
+}
+
+.Service .Service_info{
+    width: 90%;
+    margin: auto;
+    padding: 20px 50px;
+}
+
+.Service_cart{
+    margin-top: 20px;
+}
+
+.Service_icon{
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    font-size: 16px;
+}
+
+/* <!-- ----------Project Section---------- -->*/
+
+.Project_item{
+    gap: 10px;
+    padding: 20px 0px;
+}
+
+.Project_cart{
+    width: 40%;
+}
+
+.Project_cart p{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+/* <!-- ----------Offering Section---------- -->*/
+
+.Offering_items{
+    grid-template-columns: 1fr 1fr;
+    gap: 20px 10px;
+    margin: 30px auto 0px;
+}
+
+/* <!-- ----------Member Section---------- -->*/
+
+.Member_cart{
+    padding: 20px 15px;
+}
+
+.Member_cart img{
+    width: 60%;
+    height: 60%;
+}
+
+.Member_cart h3{
+    font-size: 12px;
+}
+
+.Member_cart p{
+    font-size: 10px;
+}
+
+/* <!-- ----------Testimonials Section---------- -->*/
+
+.Testimonials_Content{
+    width: 90%;
+    padding: 10px;
+    margin: 20px auto 0px;
+}
+
+.Client_info b{
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+
+/* <!-- ----------News Section---------- -->*/
+
+.News_details{
+    padding: 5px;
+}
+
+.News_details h4{
+    font-size: 14px;
+    line-height: 18px;
+    padding-bottom: 10px;
+}
+
+.Read_More{
+    font-size: 12px;
+}
+
+/* <!-- ----------Dont_Miss Section---------- --> */
+
+.Input{
+    height: 30px;
+    width: 300px;
+}
+
+.Input input::placeholder{
+    font-size: 12px;
+}
+
+/* <!-- ----------Section End---------- --> */
+
+}
+
+
+@media(max-width:474px){
+
+h2{
+    font-size: 15px;
+}
+             
+h3{
+    font-size: 14px;
+}
+/*             
+p{
+    font-size: 8px;
+} */
+
+.same_padding{
+    padding-top: 25px;
+}
+
+/* <!-- ----------Header Start---------- --> */
+
+header{
+    font-size: 12px;
+    padding: 40px 0px;
+}
+
+header p{
+    font-size: 8px;
+    padding: 10px 0px;
+}
+
+header button{
+    font-size: 10px;
+    padding: 10PX 30px;
+}
+
+/* <!-- ----------Header End---------- --> */
+
+/* <!-- ----------Section Start---------- --> */
+
+/* <!-- ----------WelCome Section---------- -->*/
+
+.items .cart{
+    width: 90%;
+    /* padding: 50px 30px; */
+}
+
+.cart .icon{
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    font-size: 24px;
+}
+
+.cart h3{
+    padding: 10px 0px;
+}
+
+/* <!-- ----------Service Section---------- -->*/
+
+.Service .Service_info{
+    padding: 10px 20px;
+}
+
+.Service_cart{
+    margin-top: 10px;
+}
+
+/* <!-- ----------Gallary Section---------- -->*/
+
+.Gallary ul li{
+    font-size: 8px;
+    margin: 15px 5px;
+}
+
+/* <!-- ----------Member Section---------- -->*/
+
+.Member_cart{
+    width: 65%;
+    padding: 40px 18px;
+}
+
+
+.Member_cart h3{
+    font-size: 18px;
+    padding: 10px 0px 5px;
+}
+
+.Member_cart p{
+    font-size: 14px;
+}
+
+.Platform{
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    font-size: 16px;
+}
+
+/* <!-- ----------News Section---------- -->*/
+
+.News_items .News_cart{
+    width: 80%;
+}
+
+.News_details{
+    padding: 20px;
+}
+
+/* <!-- ----------Dont_Miss Section---------- --> */
+
+.Dont_Miss p{
+    font-size: 15px;
+}
+
+.Input{
+    height: 30px;
+    width: 250px;
+}
+
+.Input button{
+    padding: 0px 10px;
+    font-size: 8px;
+}
+
+/* <!-- ----------Section End---------- --> */
+
+}
