@@ -1,13 +1,3 @@
-// ========== Typing Animation ==========
-
-var typed = new Typed(".typing", {
-  Strings: ["Full Stack Developer", "Web Designer", "Web Developer", "Electrical Engineer", "Lifelong Learner"],
-    typeSpeed:50,
-    backSpeed:20,
-    loop:true
-  })
-  console.log(typed);
-
 
 // ========== Show Sidebar ==========
 
